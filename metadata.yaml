@@ -1,0 +1,34 @@
+_repo: From-the-Rapidan-to-Richmond-and-the-Spottsylvania-CampaignA-Sketch-in-Personal-Narration-of-__31192
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dame, William Meade
+    birthdate: 1844
+    deathdate: 1923
+    gutenberg_agent_id: '35071'
+    url: http://www.gutenberg.org/2009/agents/35071
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31192'
+  lccn: '21004321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+tableOfContents: Sketch of camp life the winter before the Spottsylvania campaign
+  -- Battle of the Wilderness -- Battles of Spottsylvania Court House -- Cold harbor
+  and the defense of Richmond.
+title: 'From the Rapidan to Richmond and the Spottsylvania Campaign
+
+  A Sketch in Personal Narration of the Scenes a Soldier Saw'
+url: http://www.gutenberg.org/ebooks/31192
