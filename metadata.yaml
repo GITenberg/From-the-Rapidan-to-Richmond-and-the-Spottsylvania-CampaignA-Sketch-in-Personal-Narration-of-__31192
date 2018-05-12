@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35071'
     url: http://www.gutenberg.org/2009/agents/35071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31192#From-the-Rapidan-to-Richmond-and-the-Spottsylvania-CampaignA-Sketch-in-Personal-Narration-of-_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-02-07'
 gutenberg_type: Text
